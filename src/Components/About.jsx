@@ -18,7 +18,7 @@ import React from "react";
  */
 import image from "../images/pexels-danny-meneses-943096.jsx";
 
-const imageAltText = "Focusing";
+const imageAltText = "Focusing & coding";
 
 /**
  * Sort description that expands on your title on the Home component.
