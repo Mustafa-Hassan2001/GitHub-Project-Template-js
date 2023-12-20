@@ -16,27 +16,27 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/pexels-danny-meneses-943096.jsx";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Focusing";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "As a third-year computer science student at MAJU, I am highly proficient in several programming languages, including C, C++, Java, Python, HTML, CSS, and JavaScript. I have also completed multiple courses and certifications on topics such as Android Mobile Application Development, SQL, Data Structures and Algorithms, and HTML and CSS. I have applied my skills and knowledge in various programming projects and competitions, such as developing a Quiz App, a Weather App, and a Music Player App, and winning the MAJU Hackathon 2023. I have also been honored with the prestigious Dean's Award for Outstanding Academic Performance at MAJU.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Android App Development",
+  "Front-end Development",
+  "Open-Source Contributor ",
+  "Various Programming Projects & Competitions",
+  "AI & ML ",
+  "learning ",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am a Mobile Application Developer and a Contributor at Social Winter of Code (SWOC) and GirlScript Summer of Code (GSSOC), two open-source programs that allow me to collaborate with talented developers from around the world and contribute to the broader open-source community. I have a passion for learning and exploring new technologies, which has driven me to stay up to date with the latest developments in the field of computer science. I am also a core leader of the Google Developer Student Club (GSDC) at MAJU, where I participate in various coding competitions, workshops, and events.";
 
 const About = () => {
   return (
