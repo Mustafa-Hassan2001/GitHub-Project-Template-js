@@ -16,9 +16,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/pexels-danny-meneses-943096.jsx";
+import image from "../images/pexels-danny-meneses-943096.jpg";
 
-const imageAltText = "Focusing & coding";
+const imageAltText = "Focusing & coding.";
 
 /**
  * Sort description that expands on your title on the Home component.
